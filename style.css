@@ -1,0 +1,19 @@
+.correct {
+  background: lime;
+}
+.incorrect {
+  background: red;
+}
+input {
+  width:110px;
+  border-color: grey;
+  border-radius: 5px;
+}
+.center {
+  margin-top:0px;
+  background: white;
+}
+h1 {
+  font-size: 70px;
+  margin-top: 5px;
+}
